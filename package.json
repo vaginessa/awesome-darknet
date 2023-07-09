@@ -25,6 +25,6 @@
   "homepage": "https://github.com/DarknetList/darknet-list#readme",
   "devDependencies": {
     "generator-awesome-list": "^2.0.2",
-    "yo": "^4.3.0"
+    "yo": "^4.3.1"
   }
 }
